@@ -1,5 +1,5 @@
 # A Collaborative, Free, Open Source, and online Research Institute & Tool for an Ecological, Negentropic Society
-## "When Science reaches Respect Life Harmony"  |  www.neguentropia.org
+## "When Science reaches Respect Life Harmony"  |  www.neguentropia.org | [French version]()
 
 ## Introduction
 
@@ -65,7 +65,7 @@ The latter must ALWAYS and IMPERATIVELY be subjected to rigorous ecotoxicologica
 ## Conceptual Scheme of the Neguentropia Project
 
 ![Concepts](https://s2.imgcdn.dev/lPlNL.png)
-## Max-Neef human fundamental needs classification
+## [Max-Neef](https://www.liquisearch.com/fundamental_human_needs/classification_of_needs) human fundamental needs classification
 
 1. livelihood
 2. protection
