@@ -3,16 +3,15 @@
 
 ## Introduction
 
-> "Celui qui croit qu'une croissance exponentielle peut se poursuivre indéfiniment dans un monde fini est soit un fou, soit un économiste." |
-> *Kenneth Ewart Boulding*.
+> "Celui qui croit qu'une croissance exponentielle peut se poursuivre indéfiniment dans un monde fini est soit un fou, soit un économiste."  |
+>  *Kenneth Ewart Boulding*.
 >
 > "Le droit de toute forme de vie à vivre est un droit universel qui ne peut être quantifié. Aucune espèce vivante n'a plus de ce droit particulier de vivre et de se développer que toute autre espèce."
 >
-> > "Science sans conscience n'est que ruine de l'âme". |
-> *François Rabelais*
+> "Science sans conscience n'est que ruine de l'âme".  |
+>  *François Rabelais*
 >
-> > "Primum non nocere", "D'abord ne pas nuire" | > *Hippocrate*, vers 410 av.
-> *Hippocrate*, vers 410 avant J.-C.
+> "Primum non nocere", "D'abord ne pas nuire"  |  *Hippocrate*, vers 410 av.
 ## Abstract
 
 ## Objectif
@@ -65,7 +64,7 @@ Ces dernières doivent TOUJOURS et IMPERATIVEMENT être soumises à une validati
 ## Schéma conceptuel du projet Neguentropia
 
 ![Concepts](https://s2.imgcdn.dev/lPlNL.png)
-## Classification des besoins fondamentaux de l'homme de [Max-Neef](https://www.liquisearch.com/fundamental_human_needs/classification_of_needs)
+## Classification des besoins fondamentaux de l'homme de [Max-Neef](https://fr.wikipedia.org/wiki/Manfred_Max-Neef)
 
 1. moyens de subsistance
 2. protection

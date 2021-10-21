@@ -11,8 +11,7 @@
 >"Science without conscience is but the ruin of the soul." |
 >  *François Rabelais*
 >
->"Primum non nocere", "First do no harm" |
->  *Hippocrates*, ca. 410 B.C.
+>"Primum non nocere", "First do no harm" | *Hippocrates*, ca. 410 B.C.
 ## Abstract
 
 ## Objective
@@ -65,7 +64,7 @@ The latter must ALWAYS and IMPERATIVELY be subjected to rigorous ecotoxicologica
 ## Conceptual Scheme of the Neguentropia Project
 
 ![Concepts](https://s2.imgcdn.dev/lPlNL.png)
-## [Max-Neef](https://www.liquisearch.com/fundamental_human_needs/classification_of_needs) human fundamental needs classification
+## [Max-Neef](https://en.wikipedia.org/wiki/Manfred_Max-Neef) human fundamental needs classification
 
 1. livelihood
 2. protection
