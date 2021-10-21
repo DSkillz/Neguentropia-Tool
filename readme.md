@@ -1,4 +1,4 @@
-# A Collaborative, open source, and online Research Institute for a Negentropic Society
+# A Collaborative, Free, Open Source, and online Research Institute & Tool for an Ecological, Negentropic Society
 www.neguentropia.org
 
 
