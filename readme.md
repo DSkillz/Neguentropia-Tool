@@ -1,5 +1,5 @@
 # A Collaborative, Free, Open Source, and online Research Institute & Tool for an Ecological, Negentropic Society
-## "When Science reaches Respect Life Harmony"  |  www.neguentropia.org | [French version]()
+## "When Science reaches Respect Life Harmony"  |  www.neguentropia.org | [French version](https://github.com/DSkillz/neguentropia/blob/dev/readme-fr.md)
 
 ## Introduction
 
