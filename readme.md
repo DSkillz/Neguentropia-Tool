@@ -4,16 +4,16 @@
 ## Introduction
 ---------------
 
-     "Anyone who believes that exponential growth can continue indefinitely in a finite world is either a fool or an economist." 
-      - Kenneth Ewart Boulding
+"Anyone who believes that exponential growth can continue indefinitely in a finite world is either a fool or an economist." 
+- Kenneth Ewart Boulding
 
-     "The right of every life form to live is a universal right that cannot be quantified. No living species has more of this particular right to live and expand than any other species."
+"The right of every life form to live is a universal right that cannot be quantified. No living species has more of this particular right to live and expand than any other species."
 
-     "Science without conscience is but the ruin of the soul."
-      - François Rabelais
+"Science without conscience is but the ruin of the soul."
+- François Rabelais
 
-     "Primum non nocere", "First do no harm"
-      - Hippocrates, ca. 410 B.C.
+"Primum non nocere", "First do no harm"
+- Hippocrates, ca. 410 B.C.
 
 ## Deep Ecology
 ---------------
