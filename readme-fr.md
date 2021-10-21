@@ -3,7 +3,7 @@
 
 ## Introduction
 
-> "Quiconque croit que la croissance exponentielle peut se poursuivre indéfiniment dans un monde fini est soit un fou, soit un économiste." |
+> "Celui qui croit qu'une croissance exponentielle peut se poursuivre indéfiniment dans un monde fini est soit un fou, soit un économiste." |
 > *Kenneth Ewart Boulding*.
 >
 > "Le droit de toute forme de vie à vivre est un droit universel qui ne peut être quantifié. Aucune espèce vivante n'a plus de ce droit particulier de vivre et de se développer que toute autre espèce."
