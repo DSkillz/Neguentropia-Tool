@@ -16,7 +16,7 @@
 ## Abstract
 
 ## Objectif
-Rendre définitivement compatible un développement humain de qualité avec une augmentation qualitative et quantitative de la biodiversité/biomasse.
+Rendre définitivement compatible un développement humain de qualité avec un accroissement qualitatif et quantitatif biodiversité/biomasse.
 ## Un aperçu des solutions
 
 **Éthique environnementale**
