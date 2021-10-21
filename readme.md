@@ -1,8 +1,10 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# A Collaborative, open source, and online Research Institute for a Negentropic Society
+www.neguentropia.org
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
+
+## Conceptual Scheme of the Neguentropia Project
+![Concepts](https://s2.imgcdn.dev/lPlNL.png)
+
 Run this followed commands:
 
 ``` bash
