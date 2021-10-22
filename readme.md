@@ -1,6 +1,5 @@
 # A Collaborative, Free, Open Source, and online Research Institute & Tool for an Ecological, Negentropic Society
 ## "When Science reaches Respect Life Harmony"  |  www.neguentropia.org | [French version](https://github.com/DSkillz/neguentropia/blob/dev/readme-fr.md)
-
 ## Introduction
 
 >"Anyone who believes that exponential growth can continue indefinitely in a finite world is either a fool or an economist." |
@@ -22,7 +21,7 @@ To make definitively compatible a quality human development with a qualitative a
 
 Ecocentrism, deep ecology<br>
 Ecocompatibility<br>
-Symbiotic Economy, Bio economy, Blue economy, Economy of Functionality<br>
+Symbiotic economy, Bio economy, Blue economy, Economy of Functionality, Knowledge economy<br>
 Ecotoxicological studies<br>
 Ecoengineering, Bioengineering, Biocomputing, Phytoremediation, Ecocatalysis, Green Chemistry<br>
 Energy audits, Negawatt<br>
@@ -30,7 +29,7 @@ Ecomaterials<br>
 Ecodesign<br>
 Life cycle analysis<br>
 Self-sufficiency, Self-consumption (off-grid)<br>
-Passive and bioclimatic buildings (e.g [Earthship](https://en.wikipedia.org/wiki/Earthship))<br>
+Passive and bioclimatic buildings, Negawatt (e.g [Earthship](https://en.wikipedia.org/wiki/Earthship))<br>
 Agro-ecology, Agro-forestry, Permaculture, Biological control<br>
 Massive revegetation<br>
 Voluntary sobriety<br>

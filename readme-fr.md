@@ -22,7 +22,7 @@ Rendre définitivement compatible un développement humain de qualité avec un a
 
 Ecocentrisme, écologie profonde<br>
 Ecocompatibilité<br>
-Économie symbiotique, bio économie, économie bleue, économie de la fonctionnalité<br>
+Économie symbiotique, bio économie, économie bleue, économie de la fonctionnalité, économie de la connaissance<br>
 Études écotoxicologiques<br>
 Eco-ingénierie, Bio-ingénierie, Bioinformatique, Phytoremédiation, Ecocatalyse, Chimie verte<br>
 Audits énergétiques, Négawatt<br>
