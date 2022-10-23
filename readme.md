@@ -62,7 +62,7 @@ It is a question of initiating a major shift in knowledge and behavior, while im
 The latter must ALWAYS and IMPERATIVELY be subjected to rigorous ecotoxicological validation, and/or energy audit, and/or life cycle analysis.
 ## Conceptual Scheme of the Neguentropia Project
 
-![Concepts](https://s2.imgcdn.dev/lPlNL.png)
+![Concepts](https://digital-skillz.fr/neguentropia/img/Neguentropia%20Project-Conceptual%20Scheme%20final.svg)
 ## [Max-Neef](https://en.wikipedia.org/wiki/Manfred_Max-Neef) human fundamental needs classification
 
 1. livelihood
