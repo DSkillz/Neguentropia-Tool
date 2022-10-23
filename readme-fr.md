@@ -63,7 +63,7 @@ Il s'agit d'initier une évolution majeure des connaissances et des comportement
 Ces dernières doivent TOUJOURS et IMPERATIVEMENT être soumises à une validation écotoxicologique rigoureuse, et/ou à un audit énergétique, et/ou à une analyse du cycle de vie.
 ## Schéma conceptuel du projet Neguentropia
 
-![Concepts](https://s2.imgcdn.dev/lPlNL.png)
+![Concepts]([https://s2.imgcdn.dev/lPlNL.png](https://digital-skillz.fr/neguentropia/img/Neguentropia%20Project-Conceptual%20Scheme%20final.svg))
 ## Classification des besoins fondamentaux de l'homme de [Max-Neef](https://fr.wikipedia.org/wiki/Manfred_Max-Neef)
 
 1. moyens de subsistance
